@@ -31,7 +31,7 @@ This will return a JSON object with the English translation of the input text.
 <div align="center">
 
 |          | Description                         | Supported |
-|:---------|:------------------------------------|:----------|
+|----------|-------------------------------------|-----------|
 | en to fa | Translating english text to persian | &#9745;   |
 | fa to en | Translating persian text to english | &#9745;   |
 | fa to ar | Translating persian text to arabic  | &#9745;   |
