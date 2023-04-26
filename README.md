@@ -28,7 +28,6 @@ curl -X POST -H 'Content-Type: application/json' -d '{"text": "سلام دنیا
 This will return a JSON object with the English translation of the input text.
 
 ## Supported Languages
-<div align="center">
 
 |          | Description                         | Supported |
 |----------|-------------------------------------|-----------|
@@ -38,5 +37,3 @@ This will return a JSON object with the English translation of the input text.
 | ar to fa | Translating arabic text to persian  | &#9745;   |
 | ar to en | Translating arabic text to english  | &#9745;   |
 | en to ar | Translating english text to arabic  | &#9745;   |
-
-</div>
