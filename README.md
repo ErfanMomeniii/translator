@@ -35,5 +35,5 @@ This will return a JSON object with the English translation of the input text.
 | fa to en | Translating persian text to english | &#9745;   |
 | fa to ar | Translating persian text to arabic  | &#9745;   |
 | ar to fa | Translating arabic text to persian  | &#9745;   |
-| ar to en | Translating arabic to english       | &#9745;   |
-| en to ar | Translating english to arabic       | &#9745;   |
+| ar to en | Translating arabic text to english  | &#9745;   |
+| en to ar | Translating english text to arabic  | &#9745;   |
