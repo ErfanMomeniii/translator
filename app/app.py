@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from googletrans import Translator
+from providers import findProvider
 
 app = Flask(__name__)
 
@@ -10,10 +10,5 @@ def translate():
     text = data['text']
     source = data['source']
     target = data['target']
-    translator = Translator()
-    result = translator.translate(text, src=source, dest=target)
-    return jsonify({'translation': result.text})
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
+    result = findProvider(source, target)(source, target, text)
+    return jsonify({'translation': result})
