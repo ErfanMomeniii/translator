@@ -37,11 +37,11 @@ This will return a JSON object with the English translation of the input text.
 
 ## Supported Languages
 
-|          | &nbsp;&nbsp; &nbsp;&nbsp;Description | Supported                               |
-|:---------|:-------------------------------------|:----------------------------------------|
-| en to fa | Translating english text to persian  | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
-| fa to en | Translating persian text to english  | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
-| fa to ar | Translating persian text to arabic   | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
-| ar to fa | Translating arabic text to persian   | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
-| ar to en | Translating arabic text to english   | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
-| en to ar | Translating english text to arabic   | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
+|          | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Description | Supported                               |
+|:---------|:---------------------------------------------------------------|:----------------------------------------|
+| en to fa | Translating english text to persian                            | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
+| fa to en | Translating persian text to english                            | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
+| fa to ar | Translating persian text to arabic                             | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
+| ar to fa | Translating arabic text to persian                             | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
+| ar to en | Translating arabic text to english                             | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
+| en to ar | Translating english text to arabic                             | &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&#9745; |
