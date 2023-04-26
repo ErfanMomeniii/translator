@@ -18,7 +18,7 @@ _default_providers = {
 def googletrans(source, target, text):
     translator = Translator()
     result = translator.translate(text, src=source, dest=target)
-    return result['text']
+    return result.text
 
 
 def findProvider(source, target):
