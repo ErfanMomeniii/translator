@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Clone this repository onto your local machine.
+1. Clone this repository.
 2. Install the required Python packages (see above).
 3. Start the Flask app by running the following command in your terminal:
 ```bash
